@@ -1,4 +1,4 @@
-// METAMASK CONNECTION
+ // METAMASK CONNECTION
 const TIMEOUT = 1000;
 const COLLECTION_NAME = 'CodeCats';
 let editions = [];
